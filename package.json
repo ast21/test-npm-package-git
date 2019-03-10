@@ -1,5 +1,5 @@
 {
-  "name": "test-npm-package-git",
+  "name": "test-package",
   "version": "11.11.11",
   "description": "for testing install npm package from github (and other hubs)",
   "main": "index.js",
